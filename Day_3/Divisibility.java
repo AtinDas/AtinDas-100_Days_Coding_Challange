@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FizzBuzz 
+public class Divisibility 
 {
 	public static void main(String[] args)
     {

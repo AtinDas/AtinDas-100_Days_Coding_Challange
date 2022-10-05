@@ -1,4 +1,4 @@
-class Solution {
+class Lastword {
     public int lengthOfLastWord(String s) {
         
         //Count the last word length
